@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jessyzayeed93@gmail.com**
 
-- 📄 know more from my <a href="https://drive.google.com/file/d/1V16VXxw5enpHd45Rhf9-9KUJdHFMuErb/view?usp=sharing">CV</a>
+- 📄 know more from my <a href="https://drive.google.com/file/d/1clc1KbSANj6O5AofuAenDLgbxtexBOFf/view?usp=sharing">CV</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
