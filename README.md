@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <div align="center">
   <h1 align="center"><b>Hey 👋 I'm Yasmine Arafa</b></h1>
   
